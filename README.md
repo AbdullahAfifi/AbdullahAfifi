@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Afifi El-Sayed</h1>
 <h3 align="center">Junior Embedded Software Engineer</h3>
 
-- 🔭 I’m training in **ITI for Embedded System**
-
+- 🔭 Embedded Systems Trainee at **ITI**
+- 
 - 🌱 I’m currently learning **Pic18f4620,ATMEGA32,STM32f401cc,C,C++,Python**
+- 
+- 👯 I’m looking to collaborate on Embedded & IoT Projects.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
