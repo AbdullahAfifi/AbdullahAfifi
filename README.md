@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Afifi El-Sayed</h1>
-<h3 align="center">Junior Embedded Software Engineer</h3>
+<h3 align="center"> Embedded Software Engineer</h3>
 
 - 🔭 Embedded Systems Trainee at **ITI**
 - 
